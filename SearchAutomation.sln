@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAutomation", "SearchAutomation\SearchAutomation.csproj", "{88BD00C6-491A-4A58-A04B-987CA8D810EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BD00C6-491A-4A58-A04B-987CA8D810EE}.Debug|x86.ActiveCfg = Debug|x86
+		{88BD00C6-491A-4A58-A04B-987CA8D810EE}.Debug|x86.Build.0 = Debug|x86
+		{88BD00C6-491A-4A58-A04B-987CA8D810EE}.Release|x86.ActiveCfg = Release|x86
+		{88BD00C6-491A-4A58-A04B-987CA8D810EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

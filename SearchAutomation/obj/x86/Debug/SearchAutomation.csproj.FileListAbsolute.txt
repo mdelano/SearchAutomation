@@ -1,0 +1,10 @@
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\SearchAutomation.exe
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\SearchAutomation.pdb
+C:\Projects\SearchAutomation\SearchAutomation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\SearchAutomation\SearchAutomation\obj\x86\Debug\SearchAutomation.exe
+C:\Projects\SearchAutomation\SearchAutomation\obj\x86\Debug\SearchAutomation.pdb
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\WebDriver.dll
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\WebDriver.Support.dll
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\WebDriver.xml
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\WebDriver.Support.xml
+C:\Projects\SearchAutomation\SearchAutomation\bin\Debug\SearchAutomation.exe.config

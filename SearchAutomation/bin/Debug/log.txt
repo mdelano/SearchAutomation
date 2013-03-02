@@ -1,0 +1,99 @@
+beginning search automation task: 3/2/2013 11:44:56 AM
+beginning search automation task: 3/2/2013 11:45:09 AM
+foo, 104000000
+boor, 11500000
+bar, 2640000000
+bear, 616000000
+beginning search automation task: 3/2/2013 11:55:25 AM
+beginning search automation task: 3/2/2013 11:56:22 AM
+foo, 104000000
+boor, 11500000
+bar, 2640000000
+bear, 616000000
+beginning search automation task: 3/2/2013 12:06:04 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 128000
+"Kosher Dill Pickles" ~spicy, 34700
+"Kosher Dill Pickles" site: http://en.wikipedia.org, 128000
+"Kosher * Pickles", 16600000
+"Kosher" OR "Pickles", 63800000
+beginning search automation task: 3/2/2013 12:12:01 PM
+beginning search automation task: 3/2/2013 12:12:13 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 128000
+"Kosher Dill Pickles" ~spicy, 128000
+"Kosher Dill Pickles" site: http://en.wikipedia.org, 128000
+"Kosher * Pickles", 16600000
+"Kosher" OR "Pickles", 63800000
+beginning search automation task: 3/2/2013 12:16:25 PM
+beginning search automation task: 3/2/2013 12:17:10 PM
+beginning search automation task: 3/2/2013 12:18:10 PM
+beginning search automation task: 3/2/2013 12:18:29 PM
+beginning search automation task: 3/2/2013 12:20:56 PM
+---SEARCH EXAMPLES TAKEN FROM: http://support.google.com/websearch/bin/answer.py?hl=en&answer=136861, 0
+beginning search automation task: 3/2/2013 12:25:09 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 128000
+"Kosher Dill Pickles" ~spicy, 128000
+"Kosher Dill Pickles" site: http://en.wikipedia.org, 128000
+"Kosher * Pickles", 16600000
+beginning search automation task: 3/2/2013 12:32:46 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 128000
+"Kosher Dill Pickles" ~spicy, 128000
+"Kosher Dill Pickles" site: http://en.wikipedia.org, 128000
+"Kosher * Pickles", 16600000
+"Kosher" OR "Pickles", 63800000
+Pickling, 4970000
+Pickling Potatoes, 17000000
+Pickling Peas, 6960000
+Pickling Poo, 17800000
+Pickled Peppers, 2040000
+Who stole the pickles?, 875000
+"Who stole the pickles", 618
+Penny Pickles Plays with Parachutes, 3030000
+Vinegar, 48800000
+Dill, 39100000
+Garlic, 126000000
+     1 large cucumber, sliced, 6580000
+    1 teaspoon salt, 22500000
+    1 onion, thinly sliced, 9380000
+    1/2 teaspoon mustard seeds, 975000
+    1 cup white sugar, 29200000
+    1/2 cup distilled white vinegar, 3930000
+    1/4 teaspoon celery seed, 318000
+    1/4 teaspoon ground turmeric, 470000
+The search engine return no result count.
+---SEARCH EXAMPLES TAKEN FROM: http://support.google.com/websearch/bin/answer.py?hl=en&answer=136861, 0
+beginning search automation task: 3/2/2013 12:44:00 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 32700
+"Kosher Dill Pickles" ~spicy, 34700
+beginning search automation task: 3/2/2013 12:50:09 PM
+"Kosher Dill Pickles", 58300
+"Kosher Dill Pickles" -garlic, 128000
+"Kosher Dill Pickles" ~spicy, 128000
+"Kosher Dill Pickles" site: http://en.wikipedia.org, 128000
+"Kosher * Pickles", 16600000
+"Kosher" OR "Pickles", 63800000
+Pickling, 4970000
+Pickling Potatoes, 17000000
+Pickling Peas, 6960000
+Pickling Poo, 17800000
+Pickled Peppers, 2040000
+Who stole the pickles?, 875000
+"Who stole the pickles", 618
+Penny Pickles Plays with Parachutes, 3030000
+Vinegar, 48800000
+Dill, 31500000
+Garlic, 126000000
+1 large cucumber, sliced, 6580000
+1 teaspoon salt, 22500000
+1 onion, thinly sliced, 9380000
+1/2 teaspoon mustard seeds, 975000
+1 cup white sugar, 29200000
+1/2 cup distilled white vinegar, 3930000
+1/4 teaspoon celery seed, 318000
+1/4 teaspoon ground turmeric, 470000
+The search engine return no result count.
+---SEARCH EXAMPLES TAKEN FROM: http://support.google.com/websearch/bin/answer.py?hl=en&answer=136861, 0
